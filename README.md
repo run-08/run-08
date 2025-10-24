@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Arun Thangavel 😀
 
 > 🌱Currently Learning **DSA**, **backend**, and **AI** <br/><br/>
-> 🏢 [V.S.B. Engineering College, Karur](https://vsbec.edu.in/) <br/><br/>
-> 📍[Palani,Tamil Nadu, 624616](https://maps.app.goo.gl/y2Jqb4o8FaDSJWkR7)
+> 🏢<a href="https://vsbec.edu.in/" target="_blank" style="color: white; text-decoration: none;>V.S.B. Engineering College, Karur</a> <br/><br/>
+> 📍<a href="https://maps.app.goo.gl/y2Jqb4o8FaDSJWkR7" target="_blank" style="color: white; text-decoration: none;> Palani,Tamil Nadu, 624616</a>
 ---
 
 # Languages Known
