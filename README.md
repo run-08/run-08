@@ -8,4 +8,4 @@
 ---
 
 # Languages Known
-![https://img.icons8.com/?size=100&id=undefined&format=png&color=000000]
+![Java](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000)
