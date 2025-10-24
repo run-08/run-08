@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Arun Thangavel 😀
 
-> 🌱Currently Learning DSA, backend, and AI <br/>
-> 🏢 [V.S.B. Engineering College, Karur](https://vsbec.edu.in/) <br/>
+> 🌱Currently Learning DSA, backend, and AI <br/><br/>
+> 🏢 [V.S.B. Engineering College, Karur](https://vsbec.edu.in/) <br/><br/>
 > 📍Palani,Tamil Nadu, 624616
 ---
 
