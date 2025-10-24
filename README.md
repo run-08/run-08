@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Arun Thangavel 😀
 
-> 🌱Currently Learning DSA, backend, and AI <br/><br/>
+> 🌱Currently Learning **DSA**, **backend**, and **AI** <br/><br/>
 > 🏢 [V.S.B. Engineering College, Karur](https://vsbec.edu.in/) <br/><br/>
-> 📍Palani,Tamil Nadu, 624616
+> 📍[Palani,Tamil Nadu, 624616](https://maps.app.goo.gl/y2Jqb4o8FaDSJWkR7)
 ---
 
 # Languages Known
