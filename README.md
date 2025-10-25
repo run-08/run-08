@@ -29,6 +29,9 @@
 
  ![Visual Studio Code](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000)
  ![IntelliJ IDEA](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
+ ![Eclipse](https://img.icons8.com/?size=100&id=pcHtLiSbkmzw&format=png&color=000000)
+ ![Excel](https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000)
+ ![Powerpoint](https://img.icons8.com/?size=100&id=117557&format=png&color=000000)
 
 ---
 
