@@ -26,7 +26,7 @@
 
 # My Leetcode Status 😎
 
-- ![Arun Rover Leetcode](https://leetcard.jacoblin.cool/ArunRover?theme=dark&font=Abel&ext=heatmap)
+ ![Arun Rover Leetcode](https://leetcard.jacoblin.cool/ArunRover?theme=dark&font=Abel&ext=heatmap)
 
 ---
 
