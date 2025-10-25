@@ -1,12 +1,12 @@
 ## Hi there 👋 I am Arun Thangavel 😀
 
-> ❤️ **❤️ took the first breath on 08/09/2005**<br/><br/>
+> ❤️ **Took the first breath on 08/09/2005**<br/><br/>
 > 🌱Currently Learning **DSA**, **backend**, and **AI** <br/><br/>
 > 🏢<a href="https://vsbec.edu.in/" target="_blank" style="color: white; text-decoration: none;">V.S.B. Engineering College, Karur</a> <br/><br/>
 > 📍<a href="https://maps.app.goo.gl/y2Jqb4o8FaDSJWkR7" target="_blank" style="color: white; text-decoration: none;"> Palani,Tamil Nadu, 624616</a>
 
-
 ---
+
 
 # Languages Known
 
@@ -22,6 +22,13 @@
 ![Microservices](https://img.icons8.com/?size=100&id=NnzHVIu1bGIV&format=png&color=000000)
 ![Graphql](https://img.icons8.com/?size=100&id=o415ZlFwYWYe&format=png&color=000000)
 
+
+---
+
+# Tools and IDE used
+
+ ![Visual Studio Code](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000)
+ ![IntelliJ IDEA](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
 
 ---
 
