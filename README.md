@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Arun Thangavel 😀
 
-> ❤️ **started to breath on 08/09/2005**
+> ❤️ **started to breath on 08/09/2005**<br/><br/>
 > 🌱Currently Learning **DSA**, **backend**, and **AI** <br/><br/>
 > 🏢<a href="https://vsbec.edu.in/" target="_blank" style="color: white; text-decoration: none;">V.S.B. Engineering College, Karur</a> <br/><br/>
 > 📍<a href="https://maps.app.goo.gl/y2Jqb4o8FaDSJWkR7" target="_blank" style="color: white; text-decoration: none;"> Palani,Tamil Nadu, 624616</a>
