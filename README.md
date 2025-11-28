@@ -41,7 +41,7 @@
 
 # My Leetcode Status 😎
 
- ![Arun Rover Leetcode](https://leetcard.jacoblin.cool/Harru_pattor?theme=dark&font=Abel&ext=heatmap)
+ ![Arun Rover Leetcode](https://leetcard.jacoblin.cool/Harry_pattor?theme=dark&font=Abel&ext=heatmap)
 
 ---
 
