@@ -21,7 +21,6 @@
 ![Postman](https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000)
 ![Github](https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000)
 ![Microservices](https://img.icons8.com/?size=100&id=NnzHVIu1bGIV&format=png&color=000000)
-![Graphql](https://img.icons8.com/?size=100&id=o415ZlFwYWYe&format=png&color=000000)
 
 
 ---
